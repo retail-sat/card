@@ -20,14 +20,14 @@
       <uniqueVersion>false</uniqueVersion>
       <id>card-releases</id>
       <name>card-releases</name>
-      <url>http://ec2-13-233-93-187.ap-south-1.compute.amazonaws.com:8081/nexus/content/repositories/card-releases/</url>
+      <url>http://ec2-13-232-204-27.ap-south-1.compute.amazonaws.com:8081/nexus/content/repositories/card-releases</url>
       <layout>default</layout>
     </repository>
     <snapshotRepository>
       <uniqueVersion>true</uniqueVersion>
       <id>card-snapshots</id>
       <name>card-snapshots</name>
-      <url>http://ec2-13-233-93-187.ap-south-1.compute.amazonaws.com:8081/nexus/content/repositories/card-snapshots/</url>
+      <url>http://ec2-13-232-204-27.ap-south-1.compute.amazonaws.com:8081/nexus/content/repositories/card-snapshots</url>
       <layout>legacy</layout>
     </snapshotRepository>
   </distributionManagement>
