@@ -20,14 +20,14 @@
       <uniqueVersion>false</uniqueVersion>
       <id>card-releases</id>
       <name>card-releases</name>
-      <url>http://ip-172-31-30-73.ap-south-1.compute.internal:8081/nexus/content/repositories/card-releases/</url>
+      <url>http://ip-172-31-30-73.ap-south-1.compute.internal:8081/nexus/content/repositories/card-releases</url>
       <layout>default</layout>
     </repository>
     <snapshotRepository>
       <uniqueVersion>true</uniqueVersion>
       <id>card-snapshots</id>
       <name>card-snapshots</name>
-      <url>http://ip-172-31-30-73.ap-south-1.compute.internal:8081/nexus/content/repositories/card-snapshots/</url>
+      <url>http://ip-172-31-30-73.ap-south-1.compute.internal:8081/nexus/content/repositories/card-snapshots</url>
       <layout>legacy</layout>
     </snapshotRepository>
   </distributionManagement>
